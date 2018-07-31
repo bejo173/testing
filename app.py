@@ -1,4 +1,3 @@
-#!/env/bin/python
 # -*- coding: UTF8 -*-
 """
 app.py
