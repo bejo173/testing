@@ -1,0 +1,8 @@
+nose
+Flask
+uwsgi
+gunicorn
+requests
+bs4
+html5lib
+youtube-dl
